@@ -30,7 +30,7 @@ describe 'Im going to test stuff' do
     end
     
     it 'should insert keys to phone' do
-        (find_element(id:'com.example.android.contactmanager:id/contactPhoneEditText')).send_keys "07725440816"
+        (find_element(id:'com.example.android.contactmanager:id/contactPhoneEditText')).send_keys "07387643901"
 
     end
 
